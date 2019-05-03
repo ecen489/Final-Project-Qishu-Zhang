@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exec_des">
+        <item>
+            You are THE executioner.
+        </item>
+        <item>
+            The most infamous and vile Hangman in all the land.
+        </item>
+        <item>
+            You consider yourself merciful because you make gambles with your prisoners...
+        </item>
+        <item>
+            If they guess your word, they are let go.
+        </item>
+        <item>
+            If they fail, they meet certain death.
+        </item>
+    </string-array>
+</resources>
